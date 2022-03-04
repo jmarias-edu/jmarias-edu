@@ -1,13 +1,27 @@
 h1 {
-	color: blue;
+	color: cyan;
 	font-size: 30px;
+	text-align: center;
+	font-weight: bold;
+	font-family: 'Smooch Sans';
 }
 
 p {
 	color: white;
-	font-size: 12px;
+	font-size: 24px;
+	text-align: center;
+	font-family: 'Smooch Sans';
 }
 
 body {
 	background-color: black;
+	padding-top: 20px;
+	padding-left: 300px;
+	padding-right: 300px;
+}
+
+div{
+	background-color: grey;
+	padding-top: 2px;
+	padding-bottom: 2px;
 }
